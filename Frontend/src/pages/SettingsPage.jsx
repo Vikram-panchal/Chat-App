@@ -57,7 +57,7 @@ const SettingsPage = () => {
                       VP
                     </div>
                     <div>
-                      <h3 className="font-medium text-sm">Vikram Panchal</h3>
+                      <h3 className="font-medium text-sm">Full Name</h3>
                       <p className="text-xs text-base-content/70">Online</p>
                     </div>
                   </div>
